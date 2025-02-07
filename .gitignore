@@ -1,0 +1,8 @@
+.gradio
+*.zip
+*.pt
+no_medicine_image.jpg
+/dataset
+/Drug_Vision
+chromedriver
+drug_products.csv
