@@ -1,4 +1,4 @@
-# 💊 Pill Identifier
+# 💊 Pill Identifier ( YOLOv11 + Selenium )  
 
 一個整合圖像辨識與網頁爬蟲的藥物查詢系統。使用者可以上傳藥物圖片或輸入藥名，系統會辨識藥品後，自動爬取相關資訊並回傳給使用者。
 
